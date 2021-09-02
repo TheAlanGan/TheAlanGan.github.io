@@ -11,21 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* __BS__ in Mathematics, University of Tennessee, 2020
+* __PhD__ in Statistics, The Ohio State University, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: REU Undergraduate Researcher
+  * National Institute for Mathematical and Biological Synthesis (NIMBioS)
+  * Supervisor: Professor Charlotte Chang and Professor Xingli Giam
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: REU Undergraduate Researcher
+  * Mathematical Biosciences Institute (MBI) partnered with Indiana University-Purdue University Indianapolis (IUPUI)
+  * Supervisor: Professor Jared Barber
   
 Skills
 ======
