@@ -1,7 +1,7 @@
 ---
 title: "Modeling the impact of wild harvest on plant–disperser mutualisms: Plant and disperser co-harvest model"
 collection: publications
-permalink: /publication/2009-01-01-Hunt-Harvest
+permalink: /publication/2021-01-01-Hunt-Harvest
 excerpt: ''
 date: 2021-01-01
 venue: 'Ecological Modelling'
