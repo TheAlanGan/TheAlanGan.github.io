@@ -75,14 +75,14 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  G-ZJ61M47EMG
 
 
 # Site Author
 author:
   name             : "Alan Gan"
   avatar           : "profile.jpg"
-  bio              : "Stats PhD Student at The Ohio State University"
+  bio              : "Statistics PhD Student at The Ohio State University"
   location         : "Columbus, Ohio"
   employer         :
   pubmed           :
