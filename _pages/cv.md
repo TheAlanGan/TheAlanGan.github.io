@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * __BS__ in Mathematics, University of Tennessee, 2020
-* __PhD__ in Statistics, The Ohio State University, 2025 (expected)
+* __PhD__ in Statistics, The Ohio State University, 2026 (expected)
 
 Work experience
 ======
