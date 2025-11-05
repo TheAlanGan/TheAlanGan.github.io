@@ -15,3 +15,5 @@ Some of my previous undergraduate work concerned mathematically modeling the vis
 My current broad research interests include numerical analysis, computational and Bayesian statistics, mathematical modeling, and application-oriented research in ecology and environmental science.
 
 > "Que sera, sera."
+
+> "There are so many amazing things to do and to see. I am just glad I exist." - Tommy Atkins (5 yrs old.)
