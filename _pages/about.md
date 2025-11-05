@@ -16,4 +16,5 @@ My current broad research interests include numerical analysis, computational an
 
 > "Que sera, sera."
 
-> "There are so many amazing things to do and to see. I am just glad I exist." - Tommy Atkins (5 yrs old.)
+> "There are so many amazing things to do and to see. I am just glad I exist."
+> > - Tommy Atkins (5 yrs old.)
