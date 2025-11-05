@@ -17,4 +17,4 @@ My current broad research interests include numerical analysis, computational an
 
 > There are so many amazing things to do and to see. I am just glad I exist.
 > 
-> <cite>Tommy Atkins, age 5</cite>
+> <cite>Tommy Atkins, age 5.</cite>
