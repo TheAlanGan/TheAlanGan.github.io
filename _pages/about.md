@@ -15,6 +15,6 @@ Some of my previous undergraduate work concerned mathematically modeling the vis
 My current broad research interests include numerical analysis, computational and Bayesian statistics, mathematical modeling, and application-oriented research in ecology and environmental science.
 
 
-> There are so many amazing things to do and to see. I am just glad I exist.
+> There are so many amazing things to do and to see. I am glad I exist.
 > 
 > <cite>Tommy Atkins, age 5.</cite>
