@@ -120,8 +120,14 @@
 {% endif %}
       {% if author.dupr %}
         <li>
-          <a href="{{ author.dupr }}">
-            <i class="fa-solid fa-fw fa-pickleball icon-pad-right" aria-hidden="true"></i>DUPR
+          <a href="{{ author.dupr }}" rel="nofollow noopener noreferrer">
+            <img
+              src="{{ author.dupr_icon | default: 'https://cdn.prod.website-files.com/6494346eebdcf3a7a1a47491/6776e5a6827add002a997957_Navy%20DUPR%20300x.png' }}"
+              alt="DUPR"
+              class="custom-social-icon"
+              loading="lazy"
+            />
+            <span class="label">DUPR</span>
           </a>
         </li>
       {% endif %}
