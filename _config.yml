@@ -115,6 +115,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  links:
+    - label: "DUPR"
+    image: "https://cdn.prod.website-files.com/6494346eebdcf3a7a1a47491/6776e5a6827add002a997957_Navy%20DUPR%20300x.png"
+    url: "https://dashboard.dupr.com/dashboard/player/MYLO5O"
 
 
 # Reading Files
