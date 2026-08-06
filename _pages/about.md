@@ -16,7 +16,7 @@ My doctoral research focused on Bayesian probabilistic numerical approaches to p
 As an undergraduate, I worked on mathematical models of cancer cell viscoelasticity in microfluidic channels and on plant–disperser population dynamics under harvesting, the latter published in [Ecological Modelling](https://doi.org/10.1016/j.ecolmodel.2020.109328).
 
 My broad research interests include probabilistic numerics, Bayesian inverse problems, uncertainty quantification, and computational statistics.
-
+ 
 
 
 
