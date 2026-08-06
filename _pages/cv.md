@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * __BS__ in Mathematics, University of Tennessee, 2020
-* __PhD__ in Statistics, The Ohio State University, 2026 (expected)
+* __PhD__ in Statistics, The Ohio State University, 2026
 
 Work experience
 ======
@@ -24,7 +24,7 @@ Work experience
   * Mathematical Biosciences Institute (MBI) partnered with Indiana University-Purdue University Indianapolis (IUPUI)
   * Supervisor: Professor Jared Barber
 
-* August 2021 - Current: Graduate Teaching Associate
+* August 2021 - August 2026: Graduate Teaching Associate
 
 Publications
 ======
