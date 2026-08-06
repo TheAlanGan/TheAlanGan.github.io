@@ -18,11 +18,11 @@ Work experience
 ======
 * Summer 2018: NSF REU Undergraduate Researcher
   * National Institute for Mathematical and Biological Synthesis (NIMBioS)
-  * Supervisor: Professor Charlotte Chang and Professor Xingli Giam
+  * Supervisor: Professor [Charlotte Chang](https://chang.eco/) and Professor [Xingli Giam](https://www.giamlab.com/)
 
 * Summer 2019: NSF REU Undergraduate Researcher
   * Mathematical Biosciences Institute (MBI) partnered with Indiana University-Purdue University Indianapolis (IUPUI)
-  * Supervisor: Professor Jared Barber
+  * Supervisor: Professor [Jared Barber](https://science.indianapolis.iu.edu/people-directory/people/barber-jared.html)
 
 * August 2021 - August 2026: Graduate Teaching Associate
 
