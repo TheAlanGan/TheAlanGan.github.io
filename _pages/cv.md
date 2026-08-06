@@ -13,6 +13,7 @@ Education
 ======
 * __BS__ in Mathematics, University of Tennessee, 2020
 * __PhD__ in Statistics, The Ohio State University, 2026
+  * Advisor: Professor [Oksana Chkrebtii](https://u.osu.edu/oksanachkrebtii)
 
 Work experience
 ======
